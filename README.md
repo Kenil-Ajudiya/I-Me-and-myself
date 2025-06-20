@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kenil-Ajudiya
-- 👀 I’m interested in Radio Astronomy and Python programming in GNU Radio.
-- 🌱 I’m currently learning Radio Astronomy and Python programming in GNU Radio.
-- 💞️ I’m looking to collaborate on Radio Astronomy and Python programming in GNU Radio.
+- 👀 I’m interested in time-domain radio astronomy in general and fast radio bursts (FRBs) and ultra-long period transients (ULPTs) in particular.
+- 🌱 I’m currently working with the SPOTLIGHT team on a GPU-accelerated pulsar processing pipeline for the project. I am driven to pursue a research career in the field of radio transient search, their possible emission mechanisms and statistical correlation analysis to improve our understanding of these sources.
+- 💞️ I’m looking for a doctorate research position.
 - 📫 How to reach me? Drop me an email: kenilr@iisc.ac.in
 
 <!---
